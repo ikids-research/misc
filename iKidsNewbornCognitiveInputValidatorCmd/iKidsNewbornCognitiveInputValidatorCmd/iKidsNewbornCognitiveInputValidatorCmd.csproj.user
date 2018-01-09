@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <StartArguments>ikids_newborn_cognitive_unity_input_log-2016-02-29_02-08-05-PM.log ikids_newborn_cognitive_unity_state_log-2016-02-29_02-08-05-PM.log out.csv</StartArguments>
+  </PropertyGroup>
+</Project>
